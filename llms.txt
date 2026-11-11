@@ -1,0 +1,26 @@
+# The Keeper's Handbook — Tidewatch Knowledge Base
+
+> The first-party knowledge base for Tidewatch: Survive the Night, a co-op survival game on Roblox.
+> A crew keeps a lighthouse burning through 85 nights of fog monsters. Every number here comes from the game's own data (game v137, Nov 10, 2026).
+
+- [Tidewatch Knowledge Base — The Keeper's Handbook](https://playtidewatch.com/index.html): The Tidewatch knowledge base: how to survive the night, every monster, crafting recipe, keeper, quest and shop price — straight from the game.
+- [Tidewatch Monsters — How to Beat Every Monster](https://playtidewatch.com/monsters.html): Every Tidewatch monster: Fog Crabs, Shellbacks, the Driftwood Golem, Barnacle Brutes, Mossback, Old Tidemaw and more — first nights, weaknesses and loot.
+- [Tidewatch Crafting — All Recipes & Tool Tiers](https://playtidewatch.com/crafting.html): All Tidewatch crafting recipes with exact costs: Bonker, Slinger and Lantern chains, fishing rods, the Stone Axe, Shell Camera and the Thunder Conch.
+- [Tidewatch Building — Fort Pieces, Crew Chest, Rest Hut & Pirate Raids](https://playtidewatch.com/building.html): Tidewatch fort pieces with costs and HP: walls, torches, the Crew Chest, Rest Huts, and how pirate raids work from night 25.
+- [Tidewatch Lighthouse Upgrades](https://playtidewatch.com/lighthouse-upgrades.html): All 8 Tidewatch lighthouse upgrades: Bigger Lens, Slow Wick, Sweeping Beam, Twin Beam, Brute Bell and more — unlocks, prerequisites and effects.
+- [Tidewatch Keepers — Perks, Unlocks & Backpack Tiers](https://playtidewatch.com/keepers.html): All 8 Tidewatch keepers with strengths, weaknesses and unlock costs, plus backpack tiers and the island piglets.
+- [Tidewatch Fishing — How It Works & the 27-Fish Log](https://playtidewatch.com/fishing.html): How Tidewatch fishing works: bites, the reel fight, luck, better rods, and the full 27-fish log including the Baby Starlight Leviathan.
+- [Tidewatch Collections — Photo Album, Find Sets & the Ghost Lantern](https://playtidewatch.com/collections.html): Tidewatch collections: the 23-page photo album, 9 find sets, Elias Finch's journal, and the Ghost Lantern mystery.
+- [Tidewatch Quests — Daily, Weekly, Tide & Dock Quests](https://playtidewatch.com/quests.html): Tidewatch quests explained: daily and weekly quests, rotating Tide quests, night quests, and how streaks are counted.
+- [Tidewatch Weather — Clear, Breezy, Rain & Storms](https://playtidewatch.com/weather.html): Tidewatch weather odds and effects: rain makes fish bite sooner, storms bring lightning that flips crabs and bold, faster Fog Crabs.
+- [Tidewatch Story — Chapters 1–7 & Finch Isle](https://playtidewatch.com/story.html): The Tidewatch story: chapters 1–7, Elias Finch, Fog Rock, and Finch Isle — fog zones, Foglings and the Finch family chest.
+- [The Tidewatch Crew Dock — Bell, Ring Race, Crab Derby & the Leaky Lark](https://playtidewatch.com/crew-dock.html): The Crew Dock guide: harbor bell, ring race, crab derby, photo spot, the Leaky Lark treasure hunt, and joining friends.
+- [Tidewatch Shop — Moon Pearls, Looks, Helpers & Power Prices](https://playtidewatch.com/shop.html): Every Tidewatch shop price: Moon Pearl items, helper pets, Robux looks, the Power shelf (Big Heart, Golden Shovel, pearl packs) and Marlo's tips.
+- [Tidewatch Avatar Items — Earned Hats, Necklace & Backpack](https://playtidewatch.com/avatar-items.html): The four Tidewatch avatar accessories: how to earn the Lighthouse Keeper's Cap and Crab Claw Necklace, and the shop Captain's Hat and Lighthouse Backpack.
+- [Tidewatch FAQ — Runs, Saves, Calm Mode & Purchases](https://playtidewatch.com/faq.html): Tidewatch answers: how long a run is, crew saves, playing solo, Calm Mode, Robux purchases and Start over, feedback and supported devices.
+
+## Key facts
+- A run lasts 85 nights; each dawn = +1 night and 1 Moon Pearl per keeper.
+- Moon Pearls are earned by playing and buy keepers (Dot 150, Skip 200), looks and helper pets — never survival gear.
+- Fog Crabs are defeated by flipping them 3 times; Old Tidemaw (first night 10, then every 3–5 nights) is driven off by lighting the Three Fires.
+- The game is in Alpha; Public Alpha opens December 18, 2026.
