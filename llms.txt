@@ -3,7 +3,7 @@
 > The first-party knowledge base for Tidewatch: Survive the Night, a co-op survival game on Roblox.
 > A crew keeps a lighthouse burning through 85 nights of fog monsters. Every number here comes from the game's own data (game v137, Nov 10, 2026).
 
-- [Tidewatch Knowledge Base — The Keeper's Handbook](https://playtidewatch.com/index.html): The Tidewatch knowledge base: how to survive the night, every monster, crafting recipe, keeper, quest and shop price — straight from the game.
+- [Tidewatch Knowledge Base — The Keeper's Handbook](https://playtidewatch.com/): The Tidewatch knowledge base: how to survive the night, every monster, crafting recipe, keeper, quest and shop price — straight from the game.
 - [Tidewatch Monsters — How to Beat Every Monster](https://playtidewatch.com/monsters.html): Every Tidewatch monster: Fog Crabs, Shellbacks, the Driftwood Golem, Barnacle Brutes, Mossback, Old Tidemaw and more — first nights, weaknesses and loot.
 - [Tidewatch Crafting — All Recipes & Tool Tiers](https://playtidewatch.com/crafting.html): All Tidewatch crafting recipes with exact costs: Bonker, Slinger and Lantern chains, fishing rods, the Stone Axe, Shell Camera and the Thunder Conch.
 - [Tidewatch Building — Fort Pieces, Crew Chest, Rest Hut & Pirate Raids](https://playtidewatch.com/building.html): Tidewatch fort pieces with costs and HP: walls, torches, the Crew Chest, Rest Huts, and how pirate raids work from night 25.
