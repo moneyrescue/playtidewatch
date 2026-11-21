@@ -1,7 +1,7 @@
 # The Keeper's Handbook — Tidewatch Knowledge Base
 
 > The first-party knowledge base for Tidewatch: Survive the Night, a co-op survival game on Roblox.
-> A crew keeps a lighthouse burning through 85 nights of fog monsters. Every number here comes from the game's own data (game v137, Nov 10, 2026).
+> A crew keeps a lighthouse burning through 85 nights of fog monsters. Every number here comes from the game's own data (game v181, Nov 20, 2026).
 
 - [Tidewatch Knowledge Base — The Keeper's Handbook](https://playtidewatch.com/): The Tidewatch knowledge base: how to survive the night, every monster, crafting recipe, keeper, quest and shop price — straight from the game.
 - [Tidewatch Monsters — How to Beat Every Monster](https://playtidewatch.com/monsters.html): Every Tidewatch monster: Fog Crabs, Shellbacks, the Driftwood Golem, Barnacle Brutes, Mossback, Old Tidemaw and more — first nights, weaknesses and loot.
